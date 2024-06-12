@@ -1,0 +1,28 @@
+body{
+    background-image: url("pexels-albinberlin-919073.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+  }
+.container{
+    color: aliceblue;
+}
+.form-control {
+    background-color:#b5b2b2 ;
+}
+label.form-label {
+    font-size: x-large;
+}
+h1 {
+    text-align: center;
+}
+#content {
+    font-size: large;
+}
+hr {
+    border-top: 6px solid rgb(241, 8, 8);
+  }
+.btn {
+    align-content: center;
+}

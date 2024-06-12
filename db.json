@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "year": "",
+      "mileage": "120006",
+      "make": "",
+      "model": "Corolla"
+    },
+    {
+      "id": "2",
+      "year": "2020",
+      "mileage": "20006",
+      "make": "Honda",
+      "model": "Civic"
+    },
+    {
+      "id": "3",
+      "year": "2015",
+      "mileage": "60565",
+      "make": "Toyota",
+      "model": "Corolla"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
